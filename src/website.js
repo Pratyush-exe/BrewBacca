@@ -88,6 +88,7 @@ function createHeader(content) {
 
   const location = document.createElement('h4');
   location.textContent = "L O C A T I O N";
+  location.id = "location-text";
   location.className = "nav-ele";  
   location.addEventListener('click',
     function () {
