@@ -1,0 +1,28 @@
+{
+  "name": "brewbacca",
+  "version": "1.0.0",
+  "description": "a StarWars themed coffee shop website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pratyush-exe/brewbacca.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pratyush-exe/brewbacca/issues"
+  },
+  "homepage": "https://github.com/Pratyush-exe/brewbacca#readme",
+  "devDependencies": {
+    "webpack": "^5.47.1",
+    "webpack-cli": "^4.7.2"
+  },
+  "dependencies": {
+    "@sweetalert2/theme-borderless": "^5.0.2",
+    "sweetalert2": "^11.1.0",
+    "vanilla-tilt": "^1.7.1"
+  }
+}
