@@ -73,6 +73,19 @@ body {
     padding-bottom: 30px;
 }
 
+#location-text {
+    color: white;
+    margin: 10px;
+    font-family: 'Poiret One';
+    font-size: 12px;
+    cursor: pointer;
+    transition: .2s;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-left: 0px;
+    padding-left: 0px;
+}
+
 #gif {
     width: 100px;
     height: auto;
